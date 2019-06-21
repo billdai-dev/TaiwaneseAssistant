@@ -1,0 +1,214 @@
+{
+    "COMMENT_BAD": "台語能力有待加強唷 <sub alias=' '>😅😅</sub>",
+    "COMMENT_OKAY": "台語能力還可以唷 <sub alias=' '>😉😉</sub>",
+    "COMMENT_GOOD": "台語能力有一定的水準唷 <sub alias=' '>😲😲</sub>",
+    "COMMENT_EXCELLENT": "看來台語對你而言只是小菜一碟吧 <sub alias=' '>💪💪</sub>",
+    "OPTION_REPEAT": "再聽一次",
+    "QUESTION": "<s>第 %s 題：</s><s>請問%s是什麼？</s>",
+    "RESPONSE_WELCOME_YES": "<s>測驗開始！</s>",
+    "RESPONSE_CORRECT_ANSWER": "<audio src='https://actions.google.com/sounds/v1/alarms/dinner_bell_triangle.ogg' clipEnd='1.5s'/><s><sub alias=' '>🎉</sub> 恭喜答對 <sub alias=' '>🎉</sub>  </s>",
+    "RESPONSE_INCORRECT_ANSWER": "<audio src='https://actions.google.com/sounds/v1/cartoon/clown_horn.ogg' clipEnd='1s'/><s><sub alias=' '>😨</sub> 答錯啦 <sub alias=' '>😨</sub>  </s><s>正確答案為「%s」。</s>",
+    "RESPONSE_QUIZ_FINISHED": "<audio src='https://actions.google.com/sounds/v1/cartoon/woodpecker.ogg'/><s>測驗結束。你獲得了 %s 分！</s><s>%s</s><s>歡迎下次再來挑戰</s>",
+    "DATASET": [
+        {
+            "id": 0,
+            "question": "<sub alias='氣ㄆ'>「氣波」</sub>",
+            "answer": "草莓",
+            "options": [
+                "氣泡",
+                "草莓",
+                "刺蝟"
+            ]
+        },
+        {
+            "id": 1,
+            "question": "<sub alias='嗨骯'>「海翁」</sub>",
+            "answer": "鯨魚",
+            "options": [
+                "鯊魚",
+                "海豚",
+                "鯨魚"
+            ]
+        },
+        {
+            "id": 2,
+            "question": "<sub alias='操咩錒'>「草螟仔」</sub>",
+            "answer": "蚱蜢",
+            "options": [
+                "結草蟲",
+                "蚱蜢",
+                "蟋蟀"
+            ]
+        },
+        {
+            "id": 3,
+            "question": "<sub alias='滴嘟'>「滴都」</sub>",
+            "answer": "蜘蛛",
+            "options": [
+                "跳蚤",
+                "壁虎",
+                "蜘蛛"
+            ]
+        },
+        {
+            "id": 4,
+            "question": "<sub alias='摟雷錒'>「露螺仔」</sub>",
+            "answer": "蝸牛",
+            "options": [
+                "蝸牛",
+                "田螺",
+                "蛞蝓"
+            ]
+        },
+        {
+            "id": 5,
+            "question": "<sub alias='喉型'>「喉行」</sub>",
+            "answer": "蒼蠅",
+            "options": [
+                "蚊子",
+                "蒼蠅",
+                "蜻蜓"
+            ]
+        },
+        {
+            "id": 6,
+            "question": "<sub alias='蔡龜'>「菜圭」</sub>",
+            "answer": "絲瓜",
+            "options": [
+                "絲瓜",
+                "小黃瓜",
+                "木瓜"
+            ]
+        },
+        {
+            "id": 7,
+            "question": "<sub alias='勾以'>「古意」</sub>",
+            "answer": "老實",
+            "options": [
+                "老實",
+                "故意",
+                "守舊"
+            ]
+        },
+        {
+            "id": 8,
+            "question": "<sub alias='抖乖錒'>「肚拐仔」</sub>",
+            "answer": "蝌蚪",
+            "options": [
+                "孑孓",
+                "毛毛蟲",
+                "蝌蚪"
+            ]
+        },
+        {
+            "id": 9,
+            "question": "<sub alias='條鋼'>「_ _」</sub>",
+            "answer": "故意",
+            "options": [
+                "努力",
+                "故意",
+                "試探"
+            ]
+        },
+        {
+            "id": 10,
+            "question": "<sub alias='糙島呼'>「_ _ _」</sub>",
+            "answer": "臭豆腐",
+            "options": [
+                "凍豆腐",
+                "臭豆腐",
+                "豆腐乳"
+            ]
+        },
+        {
+            "id": 11,
+            "question": "<sub alias='碰轟'>「膨風」</sub>",
+            "answer": "吹牛",
+            "options": [
+                "吹牛",
+                "涼爽",
+                "發福"
+            ]
+        },
+        {
+            "id": 12,
+            "question": "<sub alias='掐逃'>「_ _」</sub>",
+            "answer": "車站",
+            "options": [
+                "車站",
+                "車上",
+                "月台"
+            ]
+        },
+        {
+            "id": 13,
+            "question": "<sub alias='灰掐'>「_ _」</sub>",
+            "answer": "火車",
+            "options": [
+                "高鐵",
+                "火車",
+                "跑車"
+            ]
+        },
+        {
+            "id": 14,
+            "question": "<sub alias='仄冰'>「_ _」</sub>",
+            "answer": "當兵",
+            "options": [
+                "剉冰",
+                "當兵",
+                "溜冰"
+            ]
+        },
+        {
+            "id": 15,
+            "question": "<sub alias='ㄉ蝦'>「_ _」</sub>",
+            "answer": "感謝",
+            "options": [
+                "感謝",
+                "的確",
+                "多慮"
+            ]
+        },
+        {
+            "id": 16,
+            "question": "<sub alias='肏僧'>「_ _」</sub>",
+            "answer": "臭酸",
+            "options": [
+                "口臭",
+                "腐蝕",
+                "臭酸"
+            ]
+        },
+        {
+            "id": 17,
+            "question": "<sub alias='搞剛'>「_ _」</sub>",
+            "answer": "費工",
+            "options": [
+                "苦工",
+                "費工",
+                "白工"
+            ]
+        },
+        {
+            "id": 18,
+            "question": "<sub alias='奧賭嘟'>「奧嘟嘟」</sub>",
+            "answer": "擺臭臉",
+            "options": [
+                "嬰兒肥",
+                "扮鬼臉",
+                "擺臭臉"
+            ]
+        },
+        {
+            "id": 19,
+            "question": "<sub alias='搞威'>「厚話」</sub>",
+            "answer": "多嘴",
+            "options": [
+                "沒禮貌",
+                "多嘴",
+                "無理取鬧"
+            ]
+        }
+    ]
+}

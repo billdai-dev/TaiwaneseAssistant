@@ -1,0 +1,214 @@
+{
+    "COMMENT_BAD": "I know it's hard but...keep fighting <sub alias=' '>😅😅</sub>",
+    "COMMENT_OKAY": "Well, I believe it could be better <sub alias=' '>😉😉</sub>",
+    "COMMENT_GOOD": "Pretty good! You've understood a little Taiwanese! <sub alias=' '>😲😲</sub>",
+    "COMMENT_EXCELLENT": "Amazing! You're really good at learning, right? <sub alias=' '>💪💪</sub>",
+    "OPTION_REPEAT": "Listen again",
+    "QUESTION": "<s>Question %s: </s><s>Do you understand %s?</s>",
+    "RESPONSE_WELCOME_YES": "<s>Let's go! </s>",
+    "RESPONSE_CORRECT_ANSWER": "<audio src='https://actions.google.com/sounds/v1/alarms/dinner_bell_triangle.ogg' clipEnd='1.5s'/><s><sub alias=' '>🎉</sub> Correct <sub alias=' '>🎉</sub>  </s>",
+    "RESPONSE_INCORRECT_ANSWER": "<audio src='https://actions.google.com/sounds/v1/cartoon/clown_horn.ogg' clipEnd='1s'/><s><sub alias=' '>😨</sub> Oops <sub alias=' '>😨</sub>  </s><s>The correct answer is \"%s\"。</s>",
+    "RESPONSE_QUIZ_FINISHED": "<audio src='https://actions.google.com/sounds/v1/cartoon/woodpecker.ogg'/><s>Finished! You've won %s points! </s><s>%s</s><s>Just give it another try next time!</s>",
+    "DATASET": [
+        {
+            "id": 0,
+            "question": "<sub alias='氣ㄆ'>\"___\"</sub>",
+            "answer": "Strawberry",
+            "options": [
+                "Bubble",
+                "Strawberry",
+                "Hedgehog"
+            ]
+        },
+        {
+            "id": 1,
+            "question": "<sub alias='嗨骯'>\"___\"</sub>",
+            "answer": "Whale",
+            "options": [
+                "Shark",
+                "Dolphin",
+                "Whale"
+            ]
+        },
+        {
+            "id": 2,
+            "question": "<sub alias='操咩錒'>\"___\"</sub>",
+            "answer": "Grasshopper",
+            "options": [
+                "Flea",
+                "Grasshopper",
+                "Cricket"
+            ]
+        },
+        {
+            "id": 3,
+            "question": "<sub alias='滴嘟'>\"___\"</sub>",
+            "answer": "Spider",
+            "options": [
+                "Cricket",
+                "Gecko",
+                "Spider"
+            ]
+        },
+        {
+            "id": 4,
+            "question": "<sub alias='摟雷錒'>\"___\"</sub>",
+            "answer": "Snail",
+            "options": [
+                "Snail",
+                "Crab",
+                "Leech"
+            ]
+        },
+        {
+            "id": 5,
+            "question": "<sub alias='喉型'>\"___\"</sub>",
+            "answer": "Fly",
+            "options": [
+                "Mosquito",
+                "Dragonfly",
+                "Fly"
+            ]
+        },
+        {
+            "id": 6,
+            "question": "<sub alias='蔡龜'>\"___\"</sub>",
+            "answer": "Loofah",
+            "options": [
+                "Loofah",
+                "Cucumber",
+                "Papaya"
+            ]
+        },
+        {
+            "id": 7,
+            "question": "<sub alias='勾以'>\"___\"</sub>",
+            "answer": "Honest",
+            "options": [
+                "Honest",
+                "On purpose",
+                "Old-fashoined"
+            ]
+        },
+        {
+            "id": 8,
+            "question": "<sub alias='抖乖錒'>\"___\"</sub>",
+            "answer": "Tadpole",
+            "options": [
+                "Wriggler",
+                "Caterpillar",
+                "Tadpole"
+            ]
+        },
+        {
+            "id": 9,
+            "question": "<sub alias='條鋼'>\"___\"</sub>",
+            "answer": "On purpose",
+            "options": [
+                "On purpose",
+                "Hardworking",
+                "Brave"
+            ]
+        },
+        {
+            "id": 10,
+            "question": "<sub alias='糙島呼'>\"___\"</sub>",
+            "answer": "Stinky tofu",
+            "options": [
+                "Oyster omelet",
+                "Stinky tofu",
+                "Braised pork rice"
+            ]
+        },
+        {
+            "id": 11,
+            "question": "<sub alias='碰轟'>\"___\"</sub>",
+            "answer": "Boast",
+            "options": [
+                "Boast",
+                "Windy",
+                "Getting fat"
+            ]
+        },
+        {
+            "id": 12,
+            "question": "<sub alias='掐逃'>\"___\"</sub>",
+            "answer": "Station",
+            "options": [
+                "Station",
+                "Platform",
+                "Vehicle"
+            ]
+        },
+        {
+            "id": 13,
+            "question": "<sub alias='灰掐'>\"___\"</sub>",
+            "answer": "Train",
+            "options": [
+                "High-speed rail",
+                "Train",
+                "MRT"
+            ]
+        },
+        {
+            "id": 14,
+            "question": "<sub alias='仄冰'>\"___\"</sub>",
+            "answer": "Serve in the army",
+            "options": [
+                "Serve in the army",
+                "Shaved ice",
+                "Ice skating"
+            ]
+        },
+        {
+            "id": 15,
+            "question": "<sub alias='ㄉ蝦'>\"___\"</sub>",
+            "answer": "Appreciate",
+            "options": [
+                "Appreciate",
+                "Indeed",
+                "Worry"
+            ]
+        },
+        {
+            "id": 16,
+            "question": "<sub alias='肏僧'>\"___\"</sub>",
+            "answer": "Turn sour",
+            "options": [
+                "Erosion",
+                "Delicious",
+                "Turn sour"
+            ]
+        },
+        {
+            "id": 17,
+            "question": "<sub alias='萌阿波'>\"___\"</sub>",
+            "answer": "Graveyard",
+            "options": [
+                "Mosquito",
+                "Graveyard",
+                "Hill"
+            ]
+        },
+        {
+            "id": 18,
+            "question": "<sub alias='奧賭嘟'>\"___\"</sub>",
+            "answer": "Mean mug",
+            "options": [
+                "Chubby",
+                "Act cute",
+                "Mean mug"
+            ]
+        },
+        {
+            "id": 19,
+            "question": "<sub alias='搞威'>\"___\"</sub>",
+            "answer": "Blab",
+            "options": [
+                "Impolite",
+                "Tantrum",
+                "Blab"
+            ]
+        }
+    ]
+}
