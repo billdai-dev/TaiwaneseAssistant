@@ -13,201 +13,201 @@
         {
             "id": 0,
             "question": "<sub alias='氣ㄆ'>\"___\"</sub>",
-            "answer": "Strawberry",
+            "answer": "strawberry",
             "options": [
-                "Bubble",
-                "Strawberry",
-                "Hedgehog"
+                "bubble",
+                "strawberry",
+                "hedgehog"
             ]
         },
         {
             "id": 1,
             "question": "<sub alias='嗨骯'>\"___\"</sub>",
-            "answer": "Whale",
+            "answer": "whale",
             "options": [
-                "Shark",
-                "Dolphin",
-                "Whale"
+                "shark",
+                "dolphin",
+                "whale"
             ]
         },
         {
             "id": 2,
             "question": "<sub alias='操咩錒'>\"___\"</sub>",
-            "answer": "Grasshopper",
+            "answer": "grasshopper",
             "options": [
-                "Flea",
-                "Grasshopper",
-                "Cricket"
+                "flea",
+                "grasshopper",
+                "cricket"
             ]
         },
         {
             "id": 3,
             "question": "<sub alias='滴嘟'>\"___\"</sub>",
-            "answer": "Spider",
+            "answer": "spider",
             "options": [
-                "Cricket",
-                "Gecko",
-                "Spider"
+                "cricket",
+                "gecko",
+                "spider"
             ]
         },
         {
             "id": 4,
             "question": "<sub alias='摟雷錒'>\"___\"</sub>",
-            "answer": "Snail",
+            "answer": "snail",
             "options": [
-                "Snail",
-                "Crab",
-                "Leech"
+                "snail",
+                "crab",
+                "leech"
             ]
         },
         {
             "id": 5,
             "question": "<sub alias='喉型'>\"___\"</sub>",
-            "answer": "Fly",
+            "answer": "fly",
             "options": [
-                "Mosquito",
-                "Dragonfly",
-                "Fly"
+                "mosquito",
+                "dragonfly",
+                "fly"
             ]
         },
         {
             "id": 6,
             "question": "<sub alias='蔡龜'>\"___\"</sub>",
-            "answer": "Loofah",
+            "answer": "loofah",
             "options": [
-                "Loofah",
-                "Cucumber",
-                "Papaya"
+                "loofah",
+                "cucumber",
+                "papaya"
             ]
         },
         {
             "id": 7,
             "question": "<sub alias='勾以'>\"___\"</sub>",
-            "answer": "Honest",
+            "answer": "honest",
             "options": [
-                "Honest",
-                "On purpose",
-                "Old-fashoined"
+                "honest",
+                "on purpose",
+                "old-fashoined"
             ]
         },
         {
             "id": 8,
             "question": "<sub alias='抖乖錒'>\"___\"</sub>",
-            "answer": "Tadpole",
+            "answer": "tadpole",
             "options": [
-                "Wriggler",
-                "Caterpillar",
-                "Tadpole"
+                "wriggler",
+                "caterpillar",
+                "tadpole"
             ]
         },
         {
             "id": 9,
             "question": "<sub alias='條鋼'>\"___\"</sub>",
-            "answer": "On purpose",
+            "answer": "on purpose",
             "options": [
-                "On purpose",
-                "Hardworking",
-                "Brave"
+                "on purpose",
+                "hardworking",
+                "brave"
             ]
         },
         {
             "id": 10,
             "question": "<sub alias='糙島呼'>\"___\"</sub>",
-            "answer": "Stinky tofu",
+            "answer": "stinky tofu",
             "options": [
-                "Oyster omelet",
-                "Stinky tofu",
-                "Braised pork rice"
+                "oyster omelet",
+                "stinky tofu",
+                "braised pork rice"
             ]
         },
         {
             "id": 11,
             "question": "<sub alias='碰轟'>\"___\"</sub>",
-            "answer": "Boast",
+            "answer": "boast",
             "options": [
-                "Boast",
-                "Windy",
-                "Getting fat"
+                "boast",
+                "windy",
+                "getting fat"
             ]
         },
         {
             "id": 12,
             "question": "<sub alias='掐逃'>\"___\"</sub>",
-            "answer": "Station",
+            "answer": "station",
             "options": [
-                "Station",
-                "Platform",
-                "Vehicle"
+                "station",
+                "platform",
+                "vehicle"
             ]
         },
         {
             "id": 13,
             "question": "<sub alias='灰掐'>\"___\"</sub>",
-            "answer": "Train",
+            "answer": "train",
             "options": [
-                "High-speed rail",
-                "Train",
+                "high-speed rail",
+                "train",
                 "MRT"
             ]
         },
         {
             "id": 14,
             "question": "<sub alias='仄冰'>\"___\"</sub>",
-            "answer": "Serve in the army",
+            "answer": "serve in the army",
             "options": [
-                "Serve in the army",
-                "Shaved ice",
-                "Ice skating"
+                "serve in the army",
+                "shaved ice",
+                "ice skating"
             ]
         },
         {
             "id": 15,
             "question": "<sub alias='ㄉ蝦'>\"___\"</sub>",
-            "answer": "Appreciate",
+            "answer": "appreciate",
             "options": [
-                "Appreciate",
-                "Indeed",
-                "Worry"
+                "appreciate",
+                "indeed",
+                "worry"
             ]
         },
         {
             "id": 16,
             "question": "<sub alias='肏僧'>\"___\"</sub>",
-            "answer": "Turn sour",
+            "answer": "turn sour",
             "options": [
-                "Erosion",
-                "Delicious",
-                "Turn sour"
+                "erosion",
+                "delicious",
+                "turn sour"
             ]
         },
         {
             "id": 17,
             "question": "<sub alias='萌阿波'>\"___\"</sub>",
-            "answer": "Graveyard",
+            "answer": "graveyard",
             "options": [
-                "Mosquito",
-                "Graveyard",
-                "Hill"
+                "mosquito",
+                "graveyard",
+                "hill"
             ]
         },
         {
             "id": 18,
             "question": "<sub alias='奧賭嘟'>\"___\"</sub>",
-            "answer": "Mean mug",
+            "answer": "mean mug",
             "options": [
-                "Chubby",
-                "Act cute",
-                "Mean mug"
+                "chubby",
+                "act cute",
+                "mean mug"
             ]
         },
         {
             "id": 19,
             "question": "<sub alias='搞威'>\"___\"</sub>",
-            "answer": "Blab",
+            "answer": "blab",
             "options": [
-                "Impolite",
-                "Tantrum",
-                "Blab"
+                "impolite",
+                "tantrum",
+                "blab"
             ]
         }
     ]
