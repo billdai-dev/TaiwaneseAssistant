@@ -12,7 +12,7 @@
     "DATASET": [
         {
             "id": 0,
-            "question": "<sub alias='氣ㄆ'>\"___\"</sub>",
+            "question": "<audio src='https://dl.dropboxusercontent.com/s/j597mv7eh430vl4/strawberry.mp3?dl=0'></audio><sub alias=' '> \"___\"</sub>",
             "answer": "strawberry",
             "options": [
                 "bubble",
@@ -22,7 +22,7 @@
         },
         {
             "id": 1,
-            "question": "<sub alias='嗨骯'>\"___\"</sub>",
+            "question": "<audio src='https://dl.dropboxusercontent.com/s/gsjxi99xitl31mv/whale.mp3?dl=0'></audio><sub alias=' '> \"___\"</sub>",
             "answer": "whale",
             "options": [
                 "shark",
@@ -32,7 +32,7 @@
         },
         {
             "id": 2,
-            "question": "<sub alias='操咩錒'>\"___\"</sub>",
+            "question": "<audio src='https://dl.dropboxusercontent.com/s/75mvc5og99gip1c/grasshopper.mp3?dl=0'></audio><sub alias=' '> \"___\"</sub>",
             "answer": "grasshopper",
             "options": [
                 "flea",
@@ -42,7 +42,7 @@
         },
         {
             "id": 3,
-            "question": "<sub alias='滴嘟'>\"___\"</sub>",
+            "question": "<audio src='https://dl.dropboxusercontent.com/s/h4g6a6mn0zd216c/spider.mp3?dl=0'></audio><sub alias=' '> \"___\"</sub>",
             "answer": "spider",
             "options": [
                 "cricket",
@@ -52,7 +52,7 @@
         },
         {
             "id": 4,
-            "question": "<sub alias='摟雷錒'>\"___\"</sub>",
+            "question": "<audio src='https://dl.dropboxusercontent.com/s/qnzlg8ncuhekcce/snail.mp3?dl=0'></audio><sub alias=' '> \"___\"</sub>",
             "answer": "snail",
             "options": [
                 "snail",
@@ -62,17 +62,17 @@
         },
         {
             "id": 5,
-            "question": "<sub alias='喉型'>\"___\"</sub>",
-            "answer": "fly",
+            "question": "<audio src='https://dl.dropboxusercontent.com/s/45l3bgl0h9zxwyx/fly.mp3?dl=0'></audio><sub alias=' '> \"___\"</sub>",
+            "answer": "housefly",
             "options": [
                 "mosquito",
                 "dragonfly",
-                "fly"
+                "housefly"
             ]
         },
         {
             "id": 6,
-            "question": "<sub alias='蔡龜'>\"___\"</sub>",
+            "question": "<audio src='https://dl.dropboxusercontent.com/s/uaws1k411e4e8g7/loofah.mp3?dl=0'></audio><sub alias=' '> \"___\"</sub>",
             "answer": "loofah",
             "options": [
                 "loofah",
@@ -82,7 +82,7 @@
         },
         {
             "id": 7,
-            "question": "<sub alias='勾以'>\"___\"</sub>",
+            "question": "<audio src='https://dl.dropboxusercontent.com/s/ri1xi0j7wog0joz/honest.mp3?dl=0'></audio><sub alias=' '> \"___\"</sub>",
             "answer": "honest",
             "options": [
                 "honest",
@@ -92,7 +92,7 @@
         },
         {
             "id": 8,
-            "question": "<sub alias='抖乖錒'>\"___\"</sub>",
+            "question": "<audio src='https://dl.dropboxusercontent.com/s/fuww15nfmu4sobz/tadpole.mp3?dl=0'></audio><sub alias=' '> \"___\"</sub>",
             "answer": "tadpole",
             "options": [
                 "wriggler",
@@ -102,7 +102,7 @@
         },
         {
             "id": 9,
-            "question": "<sub alias='條鋼'>\"___\"</sub>",
+            "question": "<audio src='https://dl.dropboxusercontent.com/s/3ngb02dc1lfcaqv/on_purpose.mp3?dl=0'></audio><sub alias=' '> \"___\"</sub>",
             "answer": "on purpose",
             "options": [
                 "on purpose",
@@ -112,7 +112,7 @@
         },
         {
             "id": 10,
-            "question": "<sub alias='糙島呼'>\"___\"</sub>",
+            "question": "<audio src='https://dl.dropboxusercontent.com/s/qfal74oe29wbgmm/stinky_tofu.mp3?dl=0'></audio><sub alias=' '> \"___\"</sub>",
             "answer": "stinky tofu",
             "options": [
                 "oyster omelet",
@@ -122,7 +122,7 @@
         },
         {
             "id": 11,
-            "question": "<sub alias='碰轟'>\"___\"</sub>",
+            "question": "<audio src='https://dl.dropboxusercontent.com/s/ck6hfmf0qxiljdx/boast.mp3?dl=0'></audio><sub alias=' '> \"___\"</sub>",
             "answer": "boast",
             "options": [
                 "boast",
@@ -132,7 +132,7 @@
         },
         {
             "id": 12,
-            "question": "<sub alias='掐逃'>\"___\"</sub>",
+            "question": "<audio src='https://dl.dropboxusercontent.com/s/qp2w0dt8itkz62c/station.mp3?dl=0'></audio><sub alias=' '> \"___\"</sub>",
             "answer": "station",
             "options": [
                 "station",
@@ -142,7 +142,7 @@
         },
         {
             "id": 13,
-            "question": "<sub alias='灰掐'>\"___\"</sub>",
+            "question": "<audio src='https://dl.dropboxusercontent.com/s/vofqdi0tbrxvshn/train.mp3?dl=0'></audio><sub alias=' '> \"___\"</sub>",
             "answer": "train",
             "options": [
                 "high-speed rail",
@@ -152,7 +152,7 @@
         },
         {
             "id": 14,
-            "question": "<sub alias='仄冰'>\"___\"</sub>",
+            "question": "<audio src='https://dl.dropboxusercontent.com/s/38tjwpdqsxq9j8f/serve_in_the_army.mp3?dl=0'></audio><sub alias=' '> \"___\"</sub>",
             "answer": "serve in the army",
             "options": [
                 "serve in the army",
@@ -162,7 +162,7 @@
         },
         {
             "id": 15,
-            "question": "<sub alias='ㄉ蝦'>\"___\"</sub>",
+            "question": "<audio src='https://dl.dropboxusercontent.com/s/zl7j7a44uquvdw4/appreciate.mp3?dl=0'></audio><sub alias=' '> \"___\"</sub>",
             "answer": "appreciate",
             "options": [
                 "appreciate",
@@ -172,7 +172,7 @@
         },
         {
             "id": 16,
-            "question": "<sub alias='肏僧'>\"___\"</sub>",
+            "question": "<audio src='https://dl.dropboxusercontent.com/s/trxxi0fesa1bzic/turn_sour.mp3?dl=0'></audio><sub alias=' '> \"___\"</sub>",
             "answer": "turn sour",
             "options": [
                 "erosion",
@@ -182,7 +182,7 @@
         },
         {
             "id": 17,
-            "question": "<sub alias='萌阿波'>\"___\"</sub>",
+            "question": "<audio src='https://dl.dropboxusercontent.com/s/mw3ek4k1s56mbjc/graveyard.mp3?dl=0'></audio><sub alias=' '> \"___\"</sub>",
             "answer": "graveyard",
             "options": [
                 "mosquito",
@@ -192,7 +192,7 @@
         },
         {
             "id": 18,
-            "question": "<sub alias='奧賭嘟'>\"___\"</sub>",
+            "question": "<audio src='https://dl.dropboxusercontent.com/s/pb8t3erykkinvky/mean_mug.mp3?dl=0'></audio><sub alias=' '> \"___\"</sub>",
             "answer": "mean mug",
             "options": [
                 "chubby",
@@ -202,7 +202,7 @@
         },
         {
             "id": 19,
-            "question": "<sub alias='搞威'>\"___\"</sub>",
+            "question": "<audio src='https://dl.dropboxusercontent.com/s/gku72qdbylkyjm7/blab.mp3?dl=0'></audio><sub alias=' '> \"___\"</sub>",
             "answer": "blab",
             "options": [
                 "impolite",

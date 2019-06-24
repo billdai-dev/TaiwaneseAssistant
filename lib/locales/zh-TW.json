@@ -12,7 +12,7 @@
     "DATASET": [
         {
             "id": 0,
-            "question": "<sub alias='氣ㄆ'>「氣波」</sub>",
+            "question": "<audio src='https://dl.dropboxusercontent.com/s/j597mv7eh430vl4/strawberry.mp3?dl=0'></audio><sub alias=' '>「_ _」</sub>",
             "answer": "草莓",
             "options": [
                 "氣泡",
@@ -22,7 +22,7 @@
         },
         {
             "id": 1,
-            "question": "<sub alias='嗨骯'>「海翁」</sub>",
+            "question": "<audio src='https://dl.dropboxusercontent.com/s/gsjxi99xitl31mv/whale.mp3?dl=0'></audio><sub alias=' '>「海翁」</sub>",
             "answer": "鯨魚",
             "options": [
                 "鯊魚",
@@ -32,7 +32,7 @@
         },
         {
             "id": 2,
-            "question": "<sub alias='操咩錒'>「草螟仔」</sub>",
+            "question": "<audio src='https://dl.dropboxusercontent.com/s/75mvc5og99gip1c/grasshopper.mp3?dl=0'></audio><sub alias=' '>「草螟仔」</sub>",
             "answer": "蚱蜢",
             "options": [
                 "結草蟲",
@@ -42,7 +42,7 @@
         },
         {
             "id": 3,
-            "question": "<sub alias='滴嘟'>「滴都」</sub>",
+            "question": "<audio src='https://dl.dropboxusercontent.com/s/h4g6a6mn0zd216c/spider.mp3?dl=0'></audio><sub alias=' '>「_ _」</sub>",
             "answer": "蜘蛛",
             "options": [
                 "跳蚤",
@@ -52,7 +52,7 @@
         },
         {
             "id": 4,
-            "question": "<sub alias='摟雷錒'>「露螺仔」</sub>",
+            "question": "<audio src='https://dl.dropboxusercontent.com/s/qnzlg8ncuhekcce/snail.mp3?dl=0'></audio><sub alias=' '>「露螺」</sub>",
             "answer": "蝸牛",
             "options": [
                 "蝸牛",
@@ -62,7 +62,7 @@
         },
         {
             "id": 5,
-            "question": "<sub alias='喉型'>「喉行」</sub>",
+            "question": "<audio src='https://dl.dropboxusercontent.com/s/45l3bgl0h9zxwyx/fly.mp3?dl=0'></audio><sub alias=' '>「_ _」</sub>",
             "answer": "蒼蠅",
             "options": [
                 "蚊子",
@@ -72,7 +72,7 @@
         },
         {
             "id": 6,
-            "question": "<sub alias='蔡龜'>「菜圭」</sub>",
+            "question": "<audio src='https://dl.dropboxusercontent.com/s/uaws1k411e4e8g7/loofah.mp3?dl=0'></audio><sub alias=' '>「_ _」</sub>",
             "answer": "絲瓜",
             "options": [
                 "絲瓜",
@@ -82,7 +82,7 @@
         },
         {
             "id": 7,
-            "question": "<sub alias='勾以'>「古意」</sub>",
+            "question": "<audio src='https://dl.dropboxusercontent.com/s/ri1xi0j7wog0joz/honest.mp3?dl=0'></audio><sub alias=' '>「古意」</sub>",
             "answer": "老實",
             "options": [
                 "老實",
@@ -92,7 +92,7 @@
         },
         {
             "id": 8,
-            "question": "<sub alias='抖乖錒'>「肚拐仔」</sub>",
+            "question": "<audio src='https://dl.dropboxusercontent.com/s/fuww15nfmu4sobz/tadpole.mp3?dl=0'></audio><sub alias=' '>「肚拐仔」</sub>",
             "answer": "蝌蚪",
             "options": [
                 "孑孓",
@@ -102,7 +102,7 @@
         },
         {
             "id": 9,
-            "question": "<sub alias='條鋼'>「_ _」</sub>",
+            "question": "<audio src='https://dl.dropboxusercontent.com/s/3ngb02dc1lfcaqv/on_purpose.mp3?dl=0'></audio><sub alias=' '>「_ _」</sub>",
             "answer": "故意",
             "options": [
                 "努力",
@@ -112,7 +112,7 @@
         },
         {
             "id": 10,
-            "question": "<sub alias='糙島呼'>「_ _ _」</sub>",
+            "question": "<audio src='https://dl.dropboxusercontent.com/s/qfal74oe29wbgmm/stinky_tofu.mp3?dl=0'></audio><sub alias=' '>「_ _」</sub>",
             "answer": "臭豆腐",
             "options": [
                 "凍豆腐",
@@ -122,7 +122,7 @@
         },
         {
             "id": 11,
-            "question": "<sub alias='碰轟'>「膨風」</sub>",
+            "question": "<audio src='https://dl.dropboxusercontent.com/s/ck6hfmf0qxiljdx/boast.mp3?dl=0'></audio><sub alias=' '>「膨風」</sub>",
             "answer": "吹牛",
             "options": [
                 "吹牛",
@@ -132,7 +132,7 @@
         },
         {
             "id": 12,
-            "question": "<sub alias='掐逃'>「_ _」</sub>",
+            "question": "<audio src='https://dl.dropboxusercontent.com/s/qp2w0dt8itkz62c/station.mp3?dl=0'></audio><sub alias=' '>「車頭」</sub>",
             "answer": "車站",
             "options": [
                 "車站",
@@ -142,7 +142,7 @@
         },
         {
             "id": 13,
-            "question": "<sub alias='灰掐'>「_ _」</sub>",
+            "question": "<audio src='https://dl.dropboxusercontent.com/s/vofqdi0tbrxvshn/train.mp3?dl=0'></audio><sub alias=' '>「_ _」</sub>",
             "answer": "火車",
             "options": [
                 "高鐵",
@@ -152,7 +152,7 @@
         },
         {
             "id": 14,
-            "question": "<sub alias='仄冰'>「_ _」</sub>",
+            "question": "<audio src='https://dl.dropboxusercontent.com/s/38tjwpdqsxq9j8f/serve_in_the_army.mp3?dl=0'></audio><sub alias=' '>「_ _」</sub>",
             "answer": "當兵",
             "options": [
                 "剉冰",
@@ -162,7 +162,7 @@
         },
         {
             "id": 15,
-            "question": "<sub alias='ㄉ蝦'>「_ _」</sub>",
+            "question": "<audio src='https://dl.dropboxusercontent.com/s/zl7j7a44uquvdw4/appreciate.mp3?dl=0'></audio><sub alias=' '>「_ _」</sub>",
             "answer": "感謝",
             "options": [
                 "感謝",
@@ -172,7 +172,7 @@
         },
         {
             "id": 16,
-            "question": "<sub alias='肏僧'>「_ _」</sub>",
+            "question": "<audio src='https://dl.dropboxusercontent.com/s/trxxi0fesa1bzic/turn_sour.mp3?dl=0'></audio><sub alias=' '>「_ _」</sub>",
             "answer": "臭酸",
             "options": [
                 "口臭",
@@ -182,7 +182,7 @@
         },
         {
             "id": 17,
-            "question": "<sub alias='搞剛'>「_ _」</sub>",
+            "question": "<audio src='https://dl.dropboxusercontent.com/s/lsaxo2h8y65nr15/gao_gang.mp3?dl=0'></audio><sub alias=' '>「_ _」</sub>",
             "answer": "費工",
             "options": [
                 "苦工",
@@ -192,7 +192,7 @@
         },
         {
             "id": 18,
-            "question": "<sub alias='奧賭嘟'>「奧嘟嘟」</sub>",
+            "question": "<audio src='https://dl.dropboxusercontent.com/s/pb8t3erykkinvky/mean_mug.mp3?dl=0'></audio><sub alias=' '>「奧嘟嘟」</sub>",
             "answer": "擺臭臉",
             "options": [
                 "嬰兒肥",
@@ -202,7 +202,7 @@
         },
         {
             "id": 19,
-            "question": "<sub alias='搞威'>「厚話」</sub>",
+            "question": "<audio src='https://dl.dropboxusercontent.com/s/gku72qdbylkyjm7/blab.mp3?dl=0'></audio><sub alias=' '>「厚話」</sub>",
             "answer": "多嘴",
             "options": [
                 "沒禮貌",
